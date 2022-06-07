@@ -1,0 +1,2 @@
+"vamos a insertar" texto con 'comillas' y comillas "dobles"
+123 'string hola mundo, "comilla suelta, genial...!!!
